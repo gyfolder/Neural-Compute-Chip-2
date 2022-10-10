@@ -4,7 +4,8 @@
 - [ ] : [2. Build any Vision Project]
 - [ ] : [3. Use NCS2 to accelerate AI performance]
 
-- [ ] : [Main Page](https://github.com/gyfolder/Neural-Compute-Chip-2#link)
+<br>
+- [Main Page](https://github.com/gyfolder/Neural-Compute-Chip-2#link)
 
 # 1. Overview
 
