@@ -1,8 +1,8 @@
-# Neural Compute Stick 2
-
 # Neural Compute Stick 2 (NCS2)
 
 [디바이스마트 상품페이지](https://www.devicemart.co.kr/goods/view?no=12495781)
+
+![Neural Compute Stick 2 picture](https://www.cnet.com/a/img/resize/9cfa4259d075cbd9b3e59a72b23e9adba89b2c34/hub/2018/11/10/9e1c01ce-349b-4da4-ba19-d8f75884437b/intel-neural-compute-stick-2.jpg?auto=webp&fit=crop&height=675&width=1200){: width="600" height="335" }
 
 Neural Compute Stick 2. 115,500에 달하는 가격.
 
