@@ -24,9 +24,9 @@ Neural Compute Stick 2. 115,500에 달하는 가격.
  - 11.1 ~ 11.10  : 하루 1시간씩 10일, NSC2 이용해서 성능 향상시키기.
  - 11.11 (토)    : 브리핑
  
- ## Link
+# 목차
  
-- [10.11] : [1. Overview](https://github.com/gyfolder/Neural-Compute-Chip-2/tree/main/1.%20Overview#1-overview)
+- [x] : [1. Overview](https://github.com/gyfolder/Neural-Compute-Chip-2/tree/main/1.%20Overview#1-overview)
 - [ ] : [2. Build any Vision Project]
 - [ ] : [3. Use NCS2 to accelerate AI performance]
 
